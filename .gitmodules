@@ -1,0 +1,6 @@
+[submodule "empapi"]
+	path = empapi
+	url = https://github.com/BognarDavidMark/empapi
+[submodule "empweb"]
+	path = empweb
+	url = https://github.com/BognarDavidMark/empweb
